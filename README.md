@@ -8,6 +8,8 @@ Third party Libraries used in this project:
 
 With MVP architecture and new ConstraintLayout used in this demo project, which takes data via network using retrofit and shows on the fragment view.
 
+Bug fixed
+
 
 
 
